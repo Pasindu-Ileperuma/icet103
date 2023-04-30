@@ -1,0 +1,19 @@
+.btn1 {
+    align-self: center;
+    border-radius: 15px;
+    border: 5px solid red;
+    background-color: brown;
+    padding: 20px;
+    margin: 5px;
+}
+.hlink1 {
+    color: yellow;
+    }
+
+.progressbar1 {
+    border-radius: 2px;
+}
+
+.txtinput1 {
+    background-color: aqua; border-radius: 10px;
+}
